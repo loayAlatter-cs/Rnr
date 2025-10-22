@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rnr/static/css/main.6c85c6ff.css",
+    "main.js": "/Rnr/static/js/main.d7367034.js",
+    "static/media/img3.jpg": "/Rnr/static/media/img3.35d81141932763df7960.jpg",
+    "static/media/img1.jpg": "/Rnr/static/media/img1.7216fe16d78a77ca8b09.jpg",
+    "static/media/img2.jpg": "/Rnr/static/media/img2.2276ab3206d4609be408.jpg",
+    "static/media/logo.jpeg": "/Rnr/static/media/logo.4292a0b178300590ed2c.jpeg",
+    "index.html": "/Rnr/index.html",
+    "main.6c85c6ff.css.map": "/Rnr/static/css/main.6c85c6ff.css.map",
+    "main.d7367034.js.map": "/Rnr/static/js/main.d7367034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c85c6ff.css",
+    "static/js/main.d7367034.js"
+  ]
+}
